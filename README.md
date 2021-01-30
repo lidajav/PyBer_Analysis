@@ -29,4 +29,8 @@ This project is to create a summary of the ride-sharing data by city type by doi
 
 - Adding more drivers to rural cities are recommended as they are generating the highest average fare per ride and are generating 7% of total fares while their drivers are sitting at only 2% of total drivers. 
 - Adding more drivers to suburban areas for the same reasons may generate more revenue. 
+<<<<<<< HEAD
 - Increase the rates in urban cities even by 5% ( or an average of $1.22 per ride) will generate an increase of $41,803.  
+=======
+- Increase the rates in urban cities even by 5% ( or an average of $1.22 per ride) will generate an increase of $41,803.  
+>>>>>>> 65b62ef89c1426c1d29f32a5a457619c0a303bb0
